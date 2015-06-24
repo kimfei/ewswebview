@@ -1,0 +1,3 @@
+Enterprise Workspace (EWS) is a complete suite of products that caters to meet the needs of organizations in managing their Complete Information Life-Cycle and meets the requirements of even the most sophisticated organizations.
+
+As a part of the community service, we will be hosting Enterprise Workspace Open Source Community Project to give users a look on the architecture behind Enterprise Workspace
